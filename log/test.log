@@ -1,0 +1,671 @@
+  [4;36;1mSQL (1.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.7ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (2.7ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.5ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.8ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.7ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.7ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (2.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.7ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.8ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.7ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.8ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.7ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.8ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.8ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.8ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.8ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.8ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (0.8ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "created_at") VALUES('2009-05-09 09:07:10', 'Village Destroyed - Residents Displaced', NULL, '2009-05-09 09:07:10')[0m
+  [4;36;1mStory Load (0.9ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+  [4;36;1mSQL (1.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.9ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.8ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (5.9ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "created_at") VALUES('2009-05-09 09:08:27', 'Village Destroyed - Residents Displaced', NULL, '2009-05-09 09:08:27')[0m
+  [4;36;1mStory Load (0.8ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+REQUESTING PAGE: GET /stories with {} and HTTP headers {}
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-09 19:08:27) [GET]
+  [4;36;1mSQL (2.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (0.8ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "created_at") VALUES('2009-05-09 09:46:46', 'Village Destroyed - Residents Displaced', NULL, '2009-05-09 09:46:46')[0m
+  [4;36;1mStory Load (0.8ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+REQUESTING PAGE: GET /stories with {} and HTTP headers {}
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-09 19:46:46) [GET]
+  [4;36;1mSQL (1.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.8ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (0.8ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "public", "created_at") VALUES('2009-05-09 14:43:14', 'Village Destroyed - Residents Displaced', 'Consequatur reprehenderit mollitia repellendus debitis rerum nihil. Ea inventore ut aut soluta dolores dolorem beatae. Voluptas quo minima sapiente voluptatibus sit. Iusto est architecto dolorum omnis provident.', NULL, '2009-05-09 14:43:14')[0m
+  [4;36;1mStory Load (0.9ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+REQUESTING PAGE: GET /stories with {} and HTTP headers {}
+
+
+Processing StoriesController#index (for 127.0.0.1 at 2009-05-10 00:43:14) [GET]
+  [4;35;1mStory Load (1.2ms)[0m   [0mSELECT * FROM "stories" [0m
+Rendering template within layouts/application
+Rendering stories/index
+Completed in 52ms (View: 31, DB: 6) | 200 OK [http://www.example.com/stories]
+  [4;36;1mSQL (2.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.9ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.8ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.9ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (2.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.7ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.8ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.9ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (1.1ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "public", "created_at") VALUES('2009-05-09 15:13:41', 'Vel voluptate aliquid et doloribus sint eum ad sequi.', 'Consequatur reprehenderit mollitia repellendus debitis rerum nihil. Ea inventore ut aut soluta dolores dolorem beatae. Voluptas quo minima sapiente voluptatibus sit. Iusto est architecto dolorum omnis provident.', NULL, '2009-05-09 15:13:41')[0m
+  [4;36;1mStory Load (1.0ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+  [4;35;1mStory Create (0.3ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "public", "created_at") VALUES('2009-05-09 15:13:41', 'Alias omnis tenetur assumenda eligendi nisi.', 'Ut est adipisci alias et a maxime iusto. Quam est eos eos debitis quas. Sequi iure iste nobis aut eaque. Corporis ut quo culpa. Asperiores sed odio est.', NULL, '2009-05-09 15:13:41')[0m
+  [4;36;1mStory Load (0.9ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 2) [0m
+REQUESTING PAGE: GET /stories with {} and HTTP headers {}
+
+
+Processing StoriesController#index (for 127.0.0.1 at 2009-05-10 01:13:41) [GET]
+  [4;35;1mStory Load (1.9ms)[0m   [0mSELECT * FROM "stories" [0m
+Rendering template within layouts/application
+Rendering stories/index
+Completed in 222ms (View: 196, DB: 8) | 200 OK [http://www.example.com/stories]
+  [4;36;1mSQL (1.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.3ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (4.0ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "public", "created_at") VALUES('2009-05-09 15:15:02', 'Village Destroyed', 'Consequatur reprehenderit mollitia repellendus debitis rerum nihil. Ea inventore ut aut soluta dolores dolorem beatae. Voluptas quo minima sapiente voluptatibus sit. Iusto est architecto dolorum omnis provident.', NULL, '2009-05-09 15:15:02')[0m
+  [4;36;1mStory Load (2.6ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+  [4;35;1mStory Create (0.3ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "public", "created_at") VALUES('2009-05-09 15:15:02', 'Village Destroyed', 'Ut est adipisci alias et a maxime iusto. Quam est eos eos debitis quas. Sequi iure iste nobis aut eaque. Corporis ut quo culpa. Asperiores sed odio est.', NULL, '2009-05-09 15:15:02')[0m
+  [4;36;1mStory Load (0.9ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 2) [0m
+REQUESTING PAGE: GET /stories with {} and HTTP headers {}
+
+
+Processing StoriesController#index (for 127.0.0.1 at 2009-05-10 01:15:02) [GET]
+  [4;35;1mStory Load (3.6ms)[0m   [0mSELECT * FROM "stories" [0m
+Rendering template within layouts/application
+Rendering stories/index
+Completed in 52ms (View: 33, DB: 15) | 200 OK [http://www.example.com/stories]
+  [4;36;1mSQL (1.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.8ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (248.4ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "public", "created_at") VALUES('2009-05-09 15:20:11', 'Village Destroyed', 'Consequatur reprehenderit mollitia repellendus debitis rerum nihil. Ea inventore ut aut soluta dolores dolorem beatae. Voluptas quo minima sapiente voluptatibus sit. Iusto est architecto dolorum omnis provident.', NULL, '2009-05-09 15:20:11')[0m
+  [4;36;1mStory Load (1.7ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+  [4;35;1mStory Create (0.3ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "public", "created_at") VALUES('2009-05-09 15:20:11', 'Residents Displaced', 'Ut est adipisci alias et a maxime iusto. Quam est eos eos debitis quas. Sequi iure iste nobis aut eaque. Corporis ut quo culpa. Asperiores sed odio est.', NULL, '2009-05-09 15:20:11')[0m
+  [4;36;1mStory Load (0.9ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 2) [0m
+REQUESTING PAGE: GET /stories with {} and HTTP headers {}
+
+
+Processing StoriesController#index (for 127.0.0.1 at 2009-05-10 01:20:11) [GET]
+  [4;35;1mStory Load (2.2ms)[0m   [0mSELECT * FROM "stories" [0m
+Rendering template within layouts/application
+Rendering stories/index
+Completed in 54ms (View: 33, DB: 257) | 200 OK [http://www.example.com/stories]
+  [4;36;1mSQL (2.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (3.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.9ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (1.0ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "public", "created_at") VALUES('2009-05-10 01:31:59', 'Village Destroyed', 'Consequatur reprehenderit mollitia repellendus debitis rerum nihil. Ea inventore ut aut soluta dolores dolorem beatae. Voluptas quo minima sapiente voluptatibus sit. Iusto est architecto dolorum omnis provident.', NULL, '2009-05-10 01:31:59')[0m
+  [4;36;1mStory Load (1.0ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+  [4;35;1mStory Create (0.3ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "public", "created_at") VALUES('2009-05-10 01:31:59', 'Residents Displaced', 'Ut est adipisci alias et a maxime iusto. Quam est eos eos debitis quas. Sequi iure iste nobis aut eaque. Corporis ut quo culpa. Asperiores sed odio est.', NULL, '2009-05-10 01:31:59')[0m
+  [4;36;1mStory Load (0.9ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 2) [0m
+REQUESTING PAGE: GET /stories with {} and HTTP headers {}
+
+
+Processing StoriesController#index (for 127.0.0.1 at 2009-05-10 11:31:59) [GET]
+  [4;35;1mStory Load (1.8ms)[0m   [0mSELECT * FROM "stories" [0m
+Rendering template within layouts/application
+Rendering stories/index
+Completed in 80ms (View: 60, DB: 12) | 200 OK [http://www.example.com/stories]
+  [4;36;1mUser Exists (0.6ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."username" = 'shoaib') LIMIT 1[0m
+  [4;35;1mUser Exists (0.3ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'aric.smith@kautzergoyette.name') LIMIT 1[0m
+  [4;36;1mUser Create (1.0ms)[0m   [0;1mINSERT INTO "users" ("updated_at", "username", "password_salt", "password_hash", "email", "created_at") VALUES('2009-05-10 01:31:59', 'shoaib', '8604c1dfe88cdbbd683541d8028c058bdf0b10ac', '13b2c61470e6a3c1519c9d86ef9e75ae9cef57e6', 'aric.smith@kautzergoyette.name', '2009-05-10 01:31:59')[0m
+  [4;35;1mUser Load (2.5ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;36;1mSQL (1.9ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (0.8ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "public", "created_at") VALUES('2009-05-10 01:32:53', 'Village Destroyed', 'Consequatur reprehenderit mollitia repellendus debitis rerum nihil. Ea inventore ut aut soluta dolores dolorem beatae. Voluptas quo minima sapiente voluptatibus sit. Iusto est architecto dolorum omnis provident.', NULL, '2009-05-10 01:32:53')[0m
+  [4;36;1mStory Load (1.6ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+  [4;35;1mStory Create (0.8ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "public", "created_at") VALUES('2009-05-10 01:32:54', 'Residents Displaced', 'Ut est adipisci alias et a maxime iusto. Quam est eos eos debitis quas. Sequi iure iste nobis aut eaque. Corporis ut quo culpa. Asperiores sed odio est.', NULL, '2009-05-10 01:32:54')[0m
+  [4;36;1mStory Load (1.0ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 2) [0m
+REQUESTING PAGE: GET /stories with {} and HTTP headers {}
+
+
+Processing StoriesController#index (for 127.0.0.1 at 2009-05-10 11:32:54) [GET]
+  [4;35;1mStory Load (2.3ms)[0m   [0mSELECT * FROM "stories" [0m
+Rendering template within layouts/application
+Rendering stories/index
+Completed in 73ms (View: 51, DB: 11) | 200 OK [http://www.example.com/stories]
+  [4;36;1mUser Exists (0.5ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."username" = 'shoaib') LIMIT 1[0m
+  [4;35;1mUser Exists (0.3ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'aric.smith@kautzergoyette.name') LIMIT 1[0m
+  [4;36;1mUser Create (0.8ms)[0m   [0;1mINSERT INTO "users" ("updated_at", "username", "password_salt", "password_hash", "email", "created_at") VALUES('2009-05-10 01:32:54', 'shoaib', 'a7897e23149d4899e69a59ed214c9e43092a920b', 'bdfeea5fe1f1939fdb8a937c9030e02c9f691fe4', 'aric.smith@kautzergoyette.name', '2009-05-10 01:32:54')[0m
+  [4;35;1mUser Load (1.2ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;36;1mSQL (1.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (0.8ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "public", "created_at") VALUES('2009-05-10 02:18:06', 'Village Destroyed', 'Consequatur reprehenderit mollitia repellendus debitis rerum nihil. Ea inventore ut aut soluta dolores dolorem beatae. Voluptas quo minima sapiente voluptatibus sit. Iusto est architecto dolorum omnis provident.', NULL, '2009-05-10 02:18:06')[0m
+  [4;36;1mStory Load (0.9ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+  [4;35;1mStory Create (0.3ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "public", "created_at") VALUES('2009-05-10 02:18:06', 'Residents Displaced', 'Ut est adipisci alias et a maxime iusto. Quam est eos eos debitis quas. Sequi iure iste nobis aut eaque. Corporis ut quo culpa. Asperiores sed odio est.', NULL, '2009-05-10 02:18:06')[0m
+  [4;36;1mStory Load (1.0ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 2) [0m
+REQUESTING PAGE: GET /stories with {} and HTTP headers {}
+
+
+Processing StoriesController#index (for 127.0.0.1 at 2009-05-10 12:18:06) [GET]
+  [4;35;1mStory Load (1.5ms)[0m   [0mSELECT * FROM "stories" [0m
+Rendering template within layouts/application
+Rendering stories/index
+Completed in 63ms (View: 42, DB: 8) | 200 OK [http://www.example.com/stories]
+  [4;36;1mUser Exists (0.5ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."username" = 'shoaib') LIMIT 1[0m
+  [4;35;1mUser Exists (0.4ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'aric.smith@kautzergoyette.name') LIMIT 1[0m
+  [4;36;1mUser Create (0.8ms)[0m   [0;1mINSERT INTO "users" ("updated_at", "username", "password_salt", "password_hash", "email", "created_at") VALUES('2009-05-10 02:18:06', 'shoaib', '24e97487fbb5b729f43994ef3847b7059c0e63a9', '80991e44f6b6ab663a9ecd434285c2764567d040', 'aric.smith@kautzergoyette.name', '2009-05-10 02:18:06')[0m
+  [4;35;1mUser Load (1.2ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;36;1mSQL (0.9ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.7ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.8ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.8ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (0.9ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "public", "created_at") VALUES('2009-05-10 02:19:55', 'Village Destroyed', 'Consequatur reprehenderit mollitia repellendus debitis rerum nihil. Ea inventore ut aut soluta dolores dolorem beatae. Voluptas quo minima sapiente voluptatibus sit. Iusto est architecto dolorum omnis provident.', NULL, '2009-05-10 02:19:55')[0m
+  [4;36;1mStory Load (1.5ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+  [4;35;1mStory Create (0.3ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "public", "created_at") VALUES('2009-05-10 02:19:55', 'Residents Displaced', 'Ut est adipisci alias et a maxime iusto. Quam est eos eos debitis quas. Sequi iure iste nobis aut eaque. Corporis ut quo culpa. Asperiores sed odio est.', NULL, '2009-05-10 02:19:55')[0m
+  [4;36;1mStory Load (0.8ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 2) [0m
+REQUESTING PAGE: GET /stories with {} and HTTP headers {}
+
+
+Processing StoriesController#index (for 127.0.0.1 at 2009-05-10 12:19:55) [GET]
+  [4;35;1mStory Load (1.4ms)[0m   [0mSELECT * FROM "stories" [0m
+Rendering template within layouts/application
+Rendering stories/index
+Completed in 49ms (View: 25, DB: 8) | 200 OK [http://www.example.com/stories]
+  [4;36;1mUser Exists (0.5ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."username" = 'shoaib') LIMIT 1[0m
+  [4;35;1mUser Exists (0.4ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'aric.smith@kautzergoyette.name') LIMIT 1[0m
+  [4;36;1mUser Create (0.8ms)[0m   [0;1mINSERT INTO "users" ("updated_at", "username", "password_salt", "password_hash", "email", "created_at") VALUES('2009-05-10 02:19:56', 'shoaib', '32a3dd859228b222876f09926447e0e0de3e4fef', '9d952fe1105259dabd16a165209380abf15b73dc', 'aric.smith@kautzergoyette.name', '2009-05-10 02:19:56')[0m
+  [4;35;1mUser Load (1.0ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+
+
+Processing SessionsController#destroy (for 127.0.0.1 at 2009-05-10 12:19:56) [DELETE]
+  Parameters: {"user_id"=>""}
+Redirected to http://www.example.com/
+Completed in 198ms (DB: 3) | 302 Found [http://www.example.com/sessions]
+REQUESTING PAGE: GET /stories/new with {} and HTTP headers {}
+
+
+Processing StoriesController#new (for 127.0.0.1 at 2009-05-10 12:19:56) [GET]
+Rendering template within layouts/application
+Rendering stories/new
+Rendered stories/_form (10.3ms)
+Completed in 18ms (View: 17, DB: 0) | 200 OK [http://www.example.com/stories/new]
+  [4;36;1mSQL (2.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.5ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (0.9ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "public", "created_at") VALUES('2009-05-10 02:26:16', 'Village Destroyed', 'Consequatur reprehenderit mollitia repellendus debitis rerum nihil. Ea inventore ut aut soluta dolores dolorem beatae. Voluptas quo minima sapiente voluptatibus sit. Iusto est architecto dolorum omnis provident.', NULL, '2009-05-10 02:26:16')[0m
+  [4;36;1mStory Load (0.9ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+  [4;35;1mStory Create (0.5ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "public", "created_at") VALUES('2009-05-10 02:26:16', 'Residents Displaced', 'Ut est adipisci alias et a maxime iusto. Quam est eos eos debitis quas. Sequi iure iste nobis aut eaque. Corporis ut quo culpa. Asperiores sed odio est.', NULL, '2009-05-10 02:26:16')[0m
+  [4;36;1mStory Load (0.9ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 2) [0m
+REQUESTING PAGE: GET /stories with {} and HTTP headers {}
+
+
+Processing StoriesController#index (for 127.0.0.1 at 2009-05-10 12:26:16) [GET]
+  [4;35;1mStory Load (1.4ms)[0m   [0mSELECT * FROM "stories" [0m
+Rendering template within layouts/application
+Rendering stories/index
+Completed in 41ms (View: 23, DB: 10) | 200 OK [http://www.example.com/stories]
+  [4;36;1mUser Exists (0.9ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."username" = 'shoaib') LIMIT 1[0m
+  [4;35;1mUser Exists (0.5ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'aric.smith@kautzergoyette.name') LIMIT 1[0m
+  [4;36;1mUser Create (0.7ms)[0m   [0;1mINSERT INTO "users" ("updated_at", "username", "password_salt", "password_hash", "email", "created_at") VALUES('2009-05-10 02:26:16', 'shoaib', '54a915478116d51aa319e18ddd7a324d26372f00', '73d0e49ae33230c78a55e31b40058c61b593147c', 'aric.smith@kautzergoyette.name', '2009-05-10 02:26:16')[0m
+  [4;35;1mUser Load (1.0ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+
+
+Processing SessionsController#destroy (for 127.0.0.1 at 2009-05-10 12:26:16) [DELETE]
+  Parameters: {"user_id"=>""}
+Redirected to http://www.example.com/
+Completed in 153ms (DB: 3) | 302 Found [http://www.example.com/sessions]
+REQUESTING PAGE: GET /stories/new with {} and HTTP headers {}
+
+
+Processing StoriesController#new (for 127.0.0.1 at 2009-05-10 12:26:16) [GET]
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2009-05-10 12:26:16) [GET]
+  [4;36;1mSQL (2.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (0.9ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "public", "created_at") VALUES('2009-05-10 02:27:37', 'Village Destroyed', 'Consequatur reprehenderit mollitia repellendus debitis rerum nihil. Ea inventore ut aut soluta dolores dolorem beatae. Voluptas quo minima sapiente voluptatibus sit. Iusto est architecto dolorum omnis provident.', NULL, '2009-05-10 02:27:37')[0m
+  [4;36;1mStory Load (1.1ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+  [4;35;1mStory Create (0.3ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "public", "created_at") VALUES('2009-05-10 02:27:37', 'Residents Displaced', 'Ut est adipisci alias et a maxime iusto. Quam est eos eos debitis quas. Sequi iure iste nobis aut eaque. Corporis ut quo culpa. Asperiores sed odio est.', NULL, '2009-05-10 02:27:37')[0m
+  [4;36;1mStory Load (0.9ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 2) [0m
+REQUESTING PAGE: GET /stories with {} and HTTP headers {}
+
+
+Processing StoriesController#index (for 127.0.0.1 at 2009-05-10 12:27:37) [GET]
+  [4;35;1mStory Load (1.4ms)[0m   [0mSELECT * FROM "stories" [0m
+Rendering template within layouts/application
+Rendering stories/index
+Completed in 51ms (View: 33, DB: 9) | 200 OK [http://www.example.com/stories]
+  [4;36;1mUser Exists (0.7ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."username" = 'shoaib') LIMIT 1[0m
+  [4;35;1mUser Exists (0.6ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'aric.smith@kautzergoyette.name') LIMIT 1[0m
+  [4;36;1mUser Create (0.6ms)[0m   [0;1mINSERT INTO "users" ("updated_at", "username", "password_salt", "password_hash", "email", "created_at") VALUES('2009-05-10 02:27:37', 'shoaib', '9def99900c975c12c98b4a555b0347151b4dc5fc', 'c525cba0ea75e6a34a08d60d9a2d325e03777566', 'aric.smith@kautzergoyette.name', '2009-05-10 02:27:37')[0m
+  [4;35;1mUser Load (1.1ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+
+
+Processing SessionsController#destroy (for 127.0.0.1 at 2009-05-10 12:27:37) [DELETE]
+  Parameters: {"user_id"=>""}
+Redirected to http://www.example.com/
+Completed in 153ms (DB: 3) | 302 Found [http://www.example.com/sessions]
+REQUESTING PAGE: GET /stories/new with {} and HTTP headers {}
+
+
+Processing StoriesController#new (for 127.0.0.1 at 2009-05-10 12:27:37) [GET]
+Redirected to http://www.example.com/login
+Filter chain halted as [:login_required] rendered_or_redirected.
+Completed in 3ms (DB: 0) | 302 Found [http://www.example.com/stories/new]
+REQUESTING PAGE: GET http://www.example.com/login with {} and HTTP headers {"HTTP_REFERER"=>"/stories/new"}
+
+
+Processing SessionsController#new (for 127.0.0.1 at 2009-05-10 12:27:37) [GET]
+Rendering template within layouts/application
+Rendering sessions/new
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://www.example.com/login]
+  [4;36;1mSQL (1.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.9ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (0.9ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "public", "created_at") VALUES('2009-05-10 02:28:40', 'Village Destroyed', 'Consequatur reprehenderit mollitia repellendus debitis rerum nihil. Ea inventore ut aut soluta dolores dolorem beatae. Voluptas quo minima sapiente voluptatibus sit. Iusto est architecto dolorum omnis provident.', NULL, '2009-05-10 02:28:40')[0m
+  [4;36;1mStory Load (0.8ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+  [4;35;1mStory Create (0.3ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "public", "created_at") VALUES('2009-05-10 02:28:40', 'Residents Displaced', 'Ut est adipisci alias et a maxime iusto. Quam est eos eos debitis quas. Sequi iure iste nobis aut eaque. Corporis ut quo culpa. Asperiores sed odio est.', NULL, '2009-05-10 02:28:40')[0m
+  [4;36;1mStory Load (1.4ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 2) [0m
+REQUESTING PAGE: GET /stories with {} and HTTP headers {}
+
+
+Processing StoriesController#index (for 127.0.0.1 at 2009-05-10 12:28:40) [GET]
+  [4;35;1mStory Load (1.9ms)[0m   [0mSELECT * FROM "stories" [0m
+Rendering template within layouts/application
+Rendering stories/index
+Completed in 57ms (View: 24, DB: 9) | 200 OK [http://www.example.com/stories]
+  [4;36;1mUser Exists (0.5ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."username" = 'shoaib') LIMIT 1[0m
+  [4;35;1mUser Exists (0.3ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'aric.smith@kautzergoyette.name') LIMIT 1[0m
+  [4;36;1mUser Create (0.6ms)[0m   [0;1mINSERT INTO "users" ("updated_at", "username", "password_salt", "password_hash", "email", "created_at") VALUES('2009-05-10 02:28:40', 'shoaib', 'a3f8e42e4b7c0f40eecdc065b7950b0890c9670d', 'dc1a0d2c4881ebc2d6dd62c5af1cf6b2cf578bf9', 'aric.smith@kautzergoyette.name', '2009-05-10 02:28:40')[0m
+  [4;35;1mUser Load (0.9ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+
+
+Processing SessionsController#destroy (for 127.0.0.1 at 2009-05-10 12:28:40) [DELETE]
+  Parameters: {"user_id"=>""}
+Redirected to http://www.example.com/
+Completed in 147ms (DB: 2) | 302 Found [http://www.example.com/sessions]
+REQUESTING PAGE: GET /stories/new with {} and HTTP headers {}
+
+
+Processing StoriesController#new (for 127.0.0.1 at 2009-05-10 12:28:40) [GET]
+Redirected to http://www.example.com/login
+Filter chain halted as [:login_required] rendered_or_redirected.
+Completed in 3ms (DB: 0) | 302 Found [http://www.example.com/stories/new]
+REQUESTING PAGE: GET http://www.example.com/login with {} and HTTP headers {"HTTP_REFERER"=>"/stories/new"}
+
+
+Processing SessionsController#new (for 127.0.0.1 at 2009-05-10 12:28:40) [GET]
+Rendering template within layouts/application
+Rendering sessions/new
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://www.example.com/login]
+  [4;36;1mSQL (1.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.8ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (1.1ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "public", "created_at") VALUES('2009-05-10 02:31:56', 'Village Destroyed', 'Consequatur reprehenderit mollitia repellendus debitis rerum nihil. Ea inventore ut aut soluta dolores dolorem beatae. Voluptas quo minima sapiente voluptatibus sit. Iusto est architecto dolorum omnis provident.', NULL, '2009-05-10 02:31:56')[0m
+  [4;36;1mStory Load (1.2ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+  [4;35;1mStory Create (0.5ms)[0m   [0mINSERT INTO "stories" ("updated_at", "title", "body", "public", "created_at") VALUES('2009-05-10 02:31:56', 'Residents Displaced', 'Ut est adipisci alias et a maxime iusto. Quam est eos eos debitis quas. Sequi iure iste nobis aut eaque. Corporis ut quo culpa. Asperiores sed odio est.', NULL, '2009-05-10 02:31:56')[0m
+  [4;36;1mStory Load (0.8ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 2) [0m
+REQUESTING PAGE: GET /stories with {} and HTTP headers {}
+
+
+Processing StoriesController#index (for 127.0.0.1 at 2009-05-10 12:31:56) [GET]
+  [4;35;1mStory Load (1.9ms)[0m   [0mSELECT * FROM "stories" [0m
+Rendering template within layouts/application
+Rendering stories/index
+Completed in 53ms (View: 26, DB: 9) | 200 OK [http://www.example.com/stories]
+  [4;36;1mUser Exists (0.6ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."username" = 'shoaib') LIMIT 1[0m
+  [4;35;1mUser Exists (0.4ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'aric.smith@kautzergoyette.name') LIMIT 1[0m
+  [4;36;1mUser Create (0.9ms)[0m   [0;1mINSERT INTO "users" ("updated_at", "username", "password_salt", "password_hash", "email", "created_at") VALUES('2009-05-10 02:31:57', 'shoaib', 'c1d8f84d765568d35f6fc6a49b60e99d2bf3ebb8', '1ae711793a19f4a6eb18401fb1f36f7c2214ea0e', 'aric.smith@kautzergoyette.name', '2009-05-10 02:31:57')[0m
+  [4;35;1mUser Load (1.0ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+
+
+Processing SessionsController#destroy (for 127.0.0.1 at 2009-05-10 12:31:57) [DELETE]
+  Parameters: {"user_id"=>""}
+Redirected to http://www.example.com/
+Completed in 157ms (DB: 3) | 302 Found [http://www.example.com/sessions]
+REQUESTING PAGE: GET /stories/new with {} and HTTP headers {}
+
+
+Processing StoriesController#new (for 127.0.0.1 at 2009-05-10 12:31:57) [GET]
+Redirected to http://www.example.com/login
+Filter chain halted as [:login_required] rendered_or_redirected.
+Completed in 2ms (DB: 0) | 302 Found [http://www.example.com/stories/new]
+REQUESTING PAGE: GET http://www.example.com/login with {} and HTTP headers {"HTTP_REFERER"=>"/stories/new"}
+
+
+Processing SessionsController#new (for 127.0.0.1 at 2009-05-10 12:31:57) [GET]
+Rendering template within layouts/application
+Rendering sessions/new
+Completed in 17ms (View: 16, DB: 0) | 200 OK [http://www.example.com/login]
