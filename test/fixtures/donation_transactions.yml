@@ -1,0 +1,19 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  donation_id: 1
+  action: MyString
+  amount: 1
+  success: false
+  authorization: MyString
+  message: MyString
+  params: MyText
+
+two:
+  donation_id: 1
+  action: MyString
+  amount: 1
+  success: false
+  authorization: MyString
+  message: MyString
+  params: MyText

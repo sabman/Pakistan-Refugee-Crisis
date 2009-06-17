@@ -1,0 +1,16 @@
+- form_for @donation_option do |f|
+  = f.error_messages
+  %p
+    = f.label :title
+    %br
+    = f.text_field :title
+  %p
+    = f.label :description
+    %br
+    = f.text_field :description
+  %p
+    = f.label :amount
+    %br
+    = f.text_field :amount
+  %p
+    = f.submit "Submit"

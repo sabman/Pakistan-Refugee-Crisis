@@ -1,0 +1,22 @@
+!!! Strict
+%html{ :lang => "en", :xmlns => "http://www.w3.org/1999/xhtml" }
+  %head
+    %meta{ :content => "text/html; charset=utf-8", "http-equiv" => "Content-Type" }
+    %title
+      = h(yield(:title) || "Pakistan Refugee Crisis")
+    = stylesheet_link_tag 'web_app_theme', "themes/kathleene/style"
+  %body
+    #container
+      = render :partial => "layouts/header"
+      #wrapper
+        #main
+          - flash.each do |name, msg|
+            = content_tag :div, msg, :id => "flash_#{name}"
+          = yield
+          #footer
+            .block
+              %p
+                Copyright &copy; 2009 Your Site.
+        #sidebar
+          = yield :sidebar
+        .clear

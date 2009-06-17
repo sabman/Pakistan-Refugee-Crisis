@@ -1,0 +1,24 @@
+- title "Stories"
+%table
+  %tr
+    %th
+      Title
+    %th
+      Body
+    %th
+      Public
+  - for story in @stories
+    %tr
+      %td
+        = h story.title
+      %td
+        = h truncate(story.body, :length => 200,  :omission => "... (clipped)")
+      %td
+        = link_to "Show", story
+      %td
+        = link_to "Edit", edit_story_path(story)
+      %td
+        = link_to "Destroy", story, :confirm => 'Are you sure?', :method => :delete
+
+%p
+  = link_to "New Story", new_story_path

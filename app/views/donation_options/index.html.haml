@@ -1,0 +1,17 @@
+- title "Donation Options"
+
+%table
+  %tr
+    %th Title
+    %th Description
+    %th amount
+  - for donation_option in @donation_options
+    %tr
+      %td= h donation_option.title
+      %td= h donation_option.description
+      %td= h number_to_currency(donation_option.amount)
+      %td= link_to 'Show', donation_option
+      %td= link_to 'Edit', edit_donation_option_path(donation_option)
+      %td= link_to 'Destroy', donation_option, :confirm => 'Are you sure?', :method => :delete
+
+%p= link_to "New Donation Option", new_donation_option_path

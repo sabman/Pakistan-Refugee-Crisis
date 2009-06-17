@@ -1,0 +1,18 @@
+- title "Donation Option"
+
+%p
+  %strong Title:
+  =h @donation_option.title
+%p
+  %strong Description:
+  =h @donation_option.description
+%p
+  %strong amount:
+  =h @donation_option.amount
+
+%p
+  = link_to "Edit", edit_donation_option_path(@donation_option)
+  |
+  = link_to "Destroy", @donation_option, :confirm => 'Are you sure?', :method => :delete
+  |
+  = link_to "View All", donation_options_path

@@ -1,0 +1,8 @@
+- title "Edit Donation Option"
+
+= render :partial => 'form'
+
+%p
+  = link_to "Edit", edit_donation_option_path(@donation_option)
+  |
+  = link_to "View All", donation_options_path

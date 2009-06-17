@@ -1,0 +1,13 @@
+one:
+  story_id: 1
+  donation_option_id: 1
+  first_name: MyString
+  last_name: MyString
+  card_type: MyString
+
+two:
+  story_id: 1
+  donation_option_id: 1
+  first_name: MyString
+  last_name: MyString
+  card_type: MyString

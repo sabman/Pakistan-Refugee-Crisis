@@ -1,0 +1,16 @@
+seller: 
+  email: saburq_1242404217_biz@gmail.com
+  password: 242404170  
+
+buyer: 
+  email: buyer_1242406589_per@gmail.com         
+  password: 242406562  
+
+seller: 
+  email:  saburq_1242543289_biz@gmail.com
+  password: 242543268
+  API_credential:		
+    API_Signature:
+      API_Username:		saburq_1242543289_biz_api1.gmail.com
+      API_Password:		1242543303
+      Signature:		An5ns1Kso7MWUdW4ErQKJJJ4qi4-AFgzoxRvL40Y..PBr-hUI-eoHIDp

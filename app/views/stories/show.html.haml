@@ -1,0 +1,29 @@
+- title "Story"
+
+%h2
+  = h @story.title
+
+= image_tag @story.photo.url(:small) if @story.photo.exists?
+
+%p
+  = h @story.body
+
+%p
+  = link_to "Edit", edit_story_path(@story)
+  |
+  = link_to "Destroy", @story, :confirm => 'Are you sure?', :method => :delete
+  |
+  = link_to "View All", stories_path
+
+- content_for :sidebar do
+  %div.block
+    %h3 Donation Options
+    %p Here are some options to help out. You will need a paypal account or a credit card
+    %ul.list
+      - form_for @story, :url => {:action => "donate"} do |f|
+        - DonationOption.all.each do |d|
+          %li
+            = radio_button_tag("donation_option", "#{d.id}", :checked => false )
+            %span.hightlight= h number_to_currency(d.amount)    
+            = h d.title
+        = f.submit "Donate to this family"
