@@ -1,4 +1,4 @@
-<% form_for @story do |f| %>
+<% form_for @story, :html => {:multipart => true} do |f| %>
   <%= f.error_messages %>
   <p>
     <%= f.label :title %><br />
@@ -11,6 +11,9 @@
   <p>
     <%= f.label :public %><br />
     <%= f.check_box :public %>
+  </p>
+  <p>
+    <%= f.file_field :photo %>
   </p>
   <p><%= f.submit "Submit" %></p>
 <% end %>

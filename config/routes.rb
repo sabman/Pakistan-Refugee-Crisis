@@ -1,4 +1,10 @@
 ActionController::Routing::Routes.draw do |map|
+  map.resources :donations
+
+  map.resource :donation
+
+  map.resources :donation_options
+
   map.signup  'signup', :controller => "users",     :action => "new"
   map.login   'login',  :controller => "user_sessions",  :action => "new"
   map.logout  'logout', :controller => "user_sessions",  :action => "destroy"
@@ -6,7 +12,7 @@ ActionController::Routing::Routes.draw do |map|
   map.resource :account, :controller => "users"
   map.resources :users
   map.resources :user_sessions
-  map.resources :stories
+  map.resources :stories,  :member => {"donate" => :put}
   map.root    :controller => "stories",  :action => "index" 
 
 

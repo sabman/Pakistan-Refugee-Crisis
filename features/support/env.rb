@@ -1,4 +1,5 @@
 # Sets up the Rails environment for Cucumber
+
 ENV["RAILS_ENV"] ||= "test"
 require File.expand_path(File.dirname(__FILE__) + '/../../config/environment')
 require 'cucumber/rails/world'
@@ -16,8 +17,7 @@ end
 require 'cucumber/rails/rspec'
 require 'webrat/core/matchers'
 require 'pickle/world'
-# Example of configuring pickle:
-#
+
 Pickle.configure do |config|
   config.adapters = [:machinist]
   config.map 'I', 'myself', 'me', 'my', :to => 'user: "me"'
@@ -25,5 +25,5 @@ end
 require 'pickle/path/world'
 require 'pickle/email/world'
 
-require "#{Rails.root}/spec/blueprints" # or wherever they live 
+require "#{Rails.root}/spec/blueprints" 
 Before { Sham.reset } # reset Shams in between scenarios

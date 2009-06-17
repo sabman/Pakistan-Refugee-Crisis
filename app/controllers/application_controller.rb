@@ -11,7 +11,7 @@ class ApplicationController < ActionController::Base
   helper_method :current_user
   
   private
-  
+    
   def current_user_session
     return @current_user_session if defined?(@current_user_session)
     @current_user_session = UserSession.find
@@ -41,7 +41,7 @@ class ApplicationController < ActionController::Base
   end
   
   def store_location
-    session[:return_to] = request.request_url
+    session[:return_to] = request.request_uri
   end
   
   def redirect_back_or_default(default)

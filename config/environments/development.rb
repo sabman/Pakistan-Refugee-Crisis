@@ -15,3 +15,12 @@ config.action_controller.perform_caching             = false
 
 # Don't care if the mailer can't send
 config.action_mailer.raise_delivery_errors = false
+
+config.after_initialize do
+  ActiveMerchant::Billing::Base.mode = :test
+  ::GATEWAY = ActiveMerchant::Billing::PaypalGateway.new(
+    :login      => "saburq_1242543289_biz_api1.gmail.com",
+    :password   => "1242543303",
+    :signature  => "An5ns1Kso7MWUdW4ErQKJJJ4qi4-AFgzoxRvL40Y..PBr-hUI-eoHIDp"  
+  )  
+end

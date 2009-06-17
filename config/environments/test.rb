@@ -32,3 +32,8 @@ config.gem 'rspec-rails', :lib => false, :version => ">= 1.2.0"
 config.gem 'webrat',      :lib => false
 config.gem 'ianwhite-pickle', :lib => 'pickle'
 config.gem 'notahat-machinist', :lib => 'machinist'
+
+config.after_initialize do
+  ActiveMerchant::Billing::Base.mode = :test
+  ::GATEWAY = ActiveMerchant::Billing::BogusGateway.new
+end
