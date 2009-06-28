@@ -8,7 +8,7 @@ require File.join(File.dirname(__FILE__), 'boot')
 
 Rails::Initializer.run do |config|
   config.gem 'geokit'
-  config.gem 'cloudmade'
+  # config.gem 'cloudmade'
   config.gem 'authlogic'
   config.gem 'thoughtbot-paperclip',  :lib => 'paperclip'
   config.gem 'notahat-machinist',     :lib => "machinist"

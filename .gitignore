@@ -1,9 +1,8 @@
 .DS_Store
-config/database.yml
-config/deploy.rb
+config/deploy.yml
 config/settings.yml
 config/newrelic.yml
-db/*.sqlite3
 db/schema.rb
 log/*.log
-tmp/*
+tmp/**/*
+db/*.sqlite3
