@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20090517014145) do
+ActiveRecord::Schema.define(:version => 20090517150400) do
 
   create_table "comments", :force => true do |t|
     t.integer  "commentable_id",                 :default => 0
@@ -32,6 +32,18 @@ ActiveRecord::Schema.define(:version => 20090517014145) do
     t.string   "title"
     t.string   "description"
     t.integer  "amount"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "donation_transactions", :force => true do |t|
+    t.integer  "donation_id"
+    t.string   "action"
+    t.integer  "amount"
+    t.boolean  "success"
+    t.string   "authorization"
+    t.string   "message"
+    t.text     "params"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

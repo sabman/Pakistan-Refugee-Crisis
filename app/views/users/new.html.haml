@@ -1,25 +1,41 @@
 - title "Sign up"
 %h3
-  Sign up - Already have an account?
+  Already have an account?
   = link_to "Log in", login_path
   \.
-- form_for @user do |f|
+- form_for @user, :html => {:class => 'form'} do |f|
   = f.error_messages
-  %p
-    = f.label :username
-    %br
-    = f.text_field :username
-  %p
-    = f.label :email, "Email Address"
-    %br
-    = f.text_field :email
-  %p
-    = f.label :password
-    %br
-    = f.password_field :password
-  %p
-    = f.label :password_confirmation, "Confirm Password"
-    %br
-    = f.password_field :password_confirmation
-  %p
-    = f.submit "Sign up"
+  .group
+    .left
+      = f.label :username, "Username", :class => "label"
+    .right  
+      = f.text_field :username, :class => "text_field", :type => "text"
+      %span.description Ex: sabman  
+    .clear      
+    
+  .group
+    .left
+      = f.label :email, "Email", :class => "label"
+    .right  
+      = f.text_field :email, :class => "text_field", :type => "text"
+      %span.description Must be a valid email
+    .clear      
+
+  .group
+    .left
+      = f.label :password, "Password", :class => "label"
+    .right  
+      = f.password_field :password, :type => 'password', :class => "text_field"
+    .clear      
+    
+  .group
+    .left
+      = f.label :password_confirmation, "Confirm Password", :class => "label"
+    .right  
+      = f.password_field :password_confirmation, :type => 'password', :class => "text_field"
+    .clear      
+
+  .group.navform
+    .right
+      = f.submit "Sign up", :type => "submit", :class => "button"
+    .clear      

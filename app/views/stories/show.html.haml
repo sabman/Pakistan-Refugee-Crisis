@@ -1,5 +1,4 @@
 - title "Story"
-
 %h2
   = h @story.title
 
@@ -17,13 +16,22 @@
 
 - content_for :sidebar do
   %div.block
+    %h3 Mapping the journey
+    .content
+      %h4 Plot locations that were important to this family's journey on a map
+    %ul.navigation
+      %li= link_to("Map this family's home town")
+      %li= link_to("Map this current location")
+      %li= link_to("Map another location")
+
+  %div.block
     %h3 Donation Options
-    %p Here are some options to help out. You will need a paypal account or a credit card
-    %ul.list
+    .content
+      %p Here are some options to help out. You will need a paypal account or a credit card
       - form_for @story, :url => {:action => "donate"} do |f|
         - DonationOption.all.each do |d|
-          %li
+          %p
             = radio_button_tag("donation_option", "#{d.id}", :checked => false )
             %span.hightlight= h number_to_currency(d.amount)    
             = h d.title
-        = f.submit "Donate to this family"
+        %p= f.submit "Donate to this family"

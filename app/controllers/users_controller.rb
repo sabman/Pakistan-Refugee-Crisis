@@ -8,6 +8,7 @@ class UsersController < ApplicationController
   
   def new
     @user = User.new
+    render :layout => "signup"
   end
   
   def create
@@ -17,7 +18,7 @@ class UsersController < ApplicationController
       flash[:notice] = "Thank you for signing up! You are now logged in."
       redirect_back_or_default account_url
     else
-      render :action => 'new'
+      render :action => 'new', :layout => 'signup'
     end
   end
   

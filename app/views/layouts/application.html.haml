@@ -4,14 +4,22 @@
     %meta{ :content => "text/html; charset=utf-8", "http-equiv" => "Content-Type" }
     %title
       = h(yield(:title) || "Pakistan Refugee Crisis")
-    = stylesheet_link_tag 'web_app_theme', "themes/kathleene/style"
+    = stylesheet_link_tag 'pakistan_crisis', "themes/default/style"
+    = javascript_include_tag :defaults
+    
   %body
     #container
       = render :partial => "layouts/header"
       #wrapper
         #main
-          - flash.each do |name, msg|
-            = content_tag :div, msg, :id => "flash_#{name}"
+          #block-messages.block
+            .content
+              %h2.title Messages
+              .inner
+                .flash
+                  - flash.each do |name, msg|
+                    %div{ :class => "message #{name}"}
+                      %p= msg
           = yield
           #footer
             .block

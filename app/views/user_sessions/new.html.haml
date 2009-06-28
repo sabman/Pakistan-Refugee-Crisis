@@ -1,17 +1,26 @@
-- title "Login"
 %h3
-  Login - Don't have an account?
-  = link_to "Register", new_user_path
+  Don't have an account?
+  = link_to "Signup", signup_path
   \.
-- form_for @user_session do |f|
+
+- form_for @user_session, :html => {:class => 'form login'} do |f|
   = f.error_messages
-  %p
-    = f.label :username
-    %br
-    = f.text_field :username
-  %p
-    = f.label :password
-    %br
-    = f.password_field :password
-  %p
-    = f.submit "Sign in"
+  .group 
+    .left
+      = f.label :username, "Username", :class => 'label right'
+    .right
+      = f.text_field :username, :type => 'text', :class => "text_field"
+    .clear
+  .group
+    .left
+      = f.label :password, "Password", :class => 'label right'
+    .right
+      = f.password_field :password, :type => 'password', :class => "text_field"
+    .clear
+  .group.navform
+    .right
+      = f.submit "Login", :type => "submit", :class => "button"
+    .clear
+
+
+

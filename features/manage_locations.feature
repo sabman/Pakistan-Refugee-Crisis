@@ -4,12 +4,12 @@ Feature: Manage Locations
   I want to create locations for a story
 
   @focus
-  Scenario: create a new location for an existing story
-    Given a Story.make(:user => :shoaib) exists
-    And user is logged in
-    When they click on add location
-    Then I should see a map and text field for the location
-  
+  Scenario: create the location of home town for an existing family story
+    Given a story "shoaibs_story" exists
+    And I am on story page
+    When I follow "map this family's home town"
+    Then I should see "locate on map"
+    And I should see "enter address"  
   
   
 

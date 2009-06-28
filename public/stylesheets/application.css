@@ -45,7 +45,7 @@ a {
 .fieldWithErrors {
   display: inline;
 }
-
+/*
 #errorExplanation {
   width: 400px;
   border: 2px solid #CF0000;
@@ -79,3 +79,4 @@ a {
   font-size: 12px;
   list-style: disc;
 }
+*/

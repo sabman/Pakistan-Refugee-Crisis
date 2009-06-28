@@ -3412,3 +3412,570 @@ Completed in 22ms (View: 11, DB: 1) | 200 OK [http://www.example.com/stories/new
  FROM sqlite_master
  WHERE type = 'table' AND NOT name = 'sqlite_sequence'
 [0m
+  [4;36;1mSQL (1.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.9ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.9ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.9ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.9ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.9ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.9ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.9ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.9ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.9ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.9ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.9ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mUser Exists (0.7ms)[0m   [0mSELECT "users".id FROM "users" WHERE (LOWER("users"."email") = 'aric.smith@kautzergoyette.name') LIMIT 1[0m
+  [4;36;1mUser Exists (0.5ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE (LOWER("users"."username") = 'fern') LIMIT 1[0m
+  [4;35;1mUser Exists (0.3ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '5ea512e1cdefbb6078ea19b331c790288e63d3c342d13f883d439149fbd0faad2451e06411e07104af3cbb33bdbe73810918a6914706a2fab10bebbc13dca08a') LIMIT 1[0m
+  [4;36;1mSQL (1.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.9ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.9ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.9ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.9ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (1.4ms)[0m   [0mINSERT INTO "stories" ("updated_at", "photo_file_name", "photo_file_size", "title", "body", "public", "photo_updated_at", "photo_content_type", "user_id", "created_at") VALUES('2009-06-17 07:23:29', NULL, NULL, 'Vel voluptate aliquid et doloribus sint eum ad sequi.', 'Consequatur reprehenderit mollitia repellendus debitis rerum nihil. Ea inventore ut aut soluta dolores dolorem beatae. Voluptas quo minima sapiente voluptatibus sit. Iusto est architecto dolorum omnis provident.', NULL, NULL, NULL, NULL, '2009-06-17 07:23:29')[0m
+[paperclip] Saving attachments.
+  [4;36;1mStory Load (2.4ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+  [4;36;1mSQL (2.9ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.8ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (1.5ms)[0m   [0mINSERT INTO "stories" ("updated_at", "photo_file_name", "photo_file_size", "title", "body", "public", "photo_updated_at", "photo_content_type", "user_id", "created_at") VALUES('2009-06-17 07:30:13', NULL, NULL, 'Vel voluptate aliquid et doloribus sint eum ad sequi.', 'Consequatur reprehenderit mollitia repellendus debitis rerum nihil. Ea inventore ut aut soluta dolores dolorem beatae. Voluptas quo minima sapiente voluptatibus sit. Iusto est architecto dolorum omnis provident.', NULL, NULL, NULL, NULL, '2009-06-17 07:30:13')[0m
+[paperclip] Saving attachments.
+  [4;36;1mStory Load (2.5ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+  [4;36;1mSQL (1.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (1.0ms)[0m   [0mINSERT INTO "stories" ("updated_at", "photo_file_name", "photo_file_size", "title", "body", "public", "photo_updated_at", "photo_content_type", "user_id", "created_at") VALUES('2009-06-17 07:31:11', NULL, NULL, 'Vel voluptate aliquid et doloribus sint eum ad sequi.', 'Consequatur reprehenderit mollitia repellendus debitis rerum nihil. Ea inventore ut aut soluta dolores dolorem beatae. Voluptas quo minima sapiente voluptatibus sit. Iusto est architecto dolorum omnis provident.', NULL, NULL, NULL, NULL, '2009-06-17 07:31:11')[0m
+[paperclip] Saving attachments.
+  [4;36;1mStory Load (1.6ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+  [4;36;1mSQL (1.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (1.4ms)[0m   [0mINSERT INTO "stories" ("updated_at", "photo_file_name", "photo_file_size", "title", "body", "public", "photo_updated_at", "photo_content_type", "user_id", "created_at") VALUES('2009-06-17 07:32:51', NULL, NULL, 'Vel voluptate aliquid et doloribus sint eum ad sequi.', 'Consequatur reprehenderit mollitia repellendus debitis rerum nihil. Ea inventore ut aut soluta dolores dolorem beatae. Voluptas quo minima sapiente voluptatibus sit. Iusto est architecto dolorum omnis provident.', NULL, NULL, NULL, NULL, '2009-06-17 07:32:51')[0m
+[paperclip] Saving attachments.
+  [4;36;1mStory Load (2.4ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+  [4;36;1mSQL (1.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (0.7ms)[0m   [0mINSERT INTO "stories" ("updated_at", "photo_file_name", "photo_file_size", "title", "body", "public", "photo_updated_at", "photo_content_type", "user_id", "created_at") VALUES('2009-06-17 07:33:39', NULL, NULL, 'Vel voluptate aliquid et doloribus sint eum ad sequi.', 'Consequatur reprehenderit mollitia repellendus debitis rerum nihil. Ea inventore ut aut soluta dolores dolorem beatae. Voluptas quo minima sapiente voluptatibus sit. Iusto est architecto dolorum omnis provident.', NULL, NULL, NULL, NULL, '2009-06-17 07:33:39')[0m
+[paperclip] Saving attachments.
+  [4;36;1mStory Load (1.1ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+  [4;36;1mSQL (1.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.8ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (0.7ms)[0m   [0mINSERT INTO "stories" ("updated_at", "photo_file_name", "photo_file_size", "title", "body", "public", "photo_updated_at", "photo_content_type", "user_id", "created_at") VALUES('2009-06-17 07:38:43', NULL, NULL, 'Vel voluptate aliquid et doloribus sint eum ad sequi.', 'Consequatur reprehenderit mollitia repellendus debitis rerum nihil. Ea inventore ut aut soluta dolores dolorem beatae. Voluptas quo minima sapiente voluptatibus sit. Iusto est architecto dolorum omnis provident.', NULL, NULL, NULL, NULL, '2009-06-17 07:38:43')[0m
+[paperclip] Saving attachments.
+  [4;36;1mStory Load (2.1ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+  [4;36;1mSQL (1.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.5ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.5ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (0.8ms)[0m   [0mINSERT INTO "stories" ("updated_at", "photo_file_name", "photo_file_size", "title", "body", "public", "photo_updated_at", "photo_content_type", "user_id", "created_at") VALUES('2009-06-17 07:44:24', NULL, NULL, 'Vel voluptate aliquid et doloribus sint eum ad sequi.', 'Consequatur reprehenderit mollitia repellendus debitis rerum nihil. Ea inventore ut aut soluta dolores dolorem beatae. Voluptas quo minima sapiente voluptatibus sit. Iusto est architecto dolorum omnis provident.', NULL, NULL, NULL, NULL, '2009-06-17 07:44:24')[0m
+[paperclip] Saving attachments.
+  [4;36;1mStory Load (1.2ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+  [4;36;1mSQL (1.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.9ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.9ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.8ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (0.7ms)[0m   [0mINSERT INTO "stories" ("updated_at", "photo_file_name", "photo_file_size", "title", "body", "public", "photo_updated_at", "photo_content_type", "user_id", "created_at") VALUES('2009-06-17 07:51:15', NULL, NULL, 'Vel voluptate aliquid et doloribus sint eum ad sequi.', 'Consequatur reprehenderit mollitia repellendus debitis rerum nihil. Ea inventore ut aut soluta dolores dolorem beatae. Voluptas quo minima sapiente voluptatibus sit. Iusto est architecto dolorum omnis provident.', NULL, NULL, NULL, NULL, '2009-06-17 07:51:15')[0m
+[paperclip] Saving attachments.
+  [4;36;1mStory Load (1.2ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+  [4;36;1mSQL (1.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (0.7ms)[0m   [0mINSERT INTO "stories" ("updated_at", "photo_file_name", "photo_file_size", "title", "body", "public", "photo_updated_at", "photo_content_type", "user_id", "created_at") VALUES('2009-06-17 07:54:20', NULL, NULL, 'Vel voluptate aliquid et doloribus sint eum ad sequi.', 'Consequatur reprehenderit mollitia repellendus debitis rerum nihil. Ea inventore ut aut soluta dolores dolorem beatae. Voluptas quo minima sapiente voluptatibus sit. Iusto est architecto dolorum omnis provident.', NULL, NULL, NULL, NULL, '2009-06-17 07:54:20')[0m
+[paperclip] Saving attachments.
+  [4;36;1mStory Load (1.2ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+  [4;36;1mSQL (1.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (1.0ms)[0m   [0mINSERT INTO "stories" ("updated_at", "photo_file_name", "photo_file_size", "title", "body", "public", "photo_updated_at", "photo_content_type", "user_id", "created_at") VALUES('2009-06-17 07:58:12', NULL, NULL, 'Vel voluptate aliquid et doloribus sint eum ad sequi.', 'Consequatur reprehenderit mollitia repellendus debitis rerum nihil. Ea inventore ut aut soluta dolores dolorem beatae. Voluptas quo minima sapiente voluptatibus sit. Iusto est architecto dolorum omnis provident.', NULL, NULL, NULL, NULL, '2009-06-17 07:58:12')[0m
+[paperclip] Saving attachments.
+  [4;36;1mStory Load (1.2ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+  [4;36;1mSQL (1.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (1.0ms)[0m   [0mINSERT INTO "stories" ("updated_at", "photo_file_name", "photo_file_size", "title", "body", "public", "photo_updated_at", "photo_content_type", "user_id", "created_at") VALUES('2009-06-17 08:00:01', NULL, NULL, 'Vel voluptate aliquid et doloribus sint eum ad sequi.', 'Consequatur reprehenderit mollitia repellendus debitis rerum nihil. Ea inventore ut aut soluta dolores dolorem beatae. Voluptas quo minima sapiente voluptatibus sit. Iusto est architecto dolorum omnis provident.', NULL, NULL, NULL, NULL, '2009-06-17 08:00:01')[0m
+[paperclip] Saving attachments.
+  [4;36;1mStory Load (1.9ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+  [4;35;1mStory Load (1.2ms)[0m   [0mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+REQUESTING PAGE: GET /stories/1 with {} and HTTP headers {}
+
+
+Processing StoriesController#show (for 127.0.0.1 at 2009-06-17 18:00:01) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mStory Load (1.3ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+Rendering template within layouts/application
+Rendering stories/show
+  [4;35;1mDonationOption Load (0.4ms)[0m   [0mSELECT * FROM "donation_options" [0m
+Rendered layouts/_header (14.1ms)
+Completed in 168ms (View: 149, DB: 16) | 200 OK [http://www.example.com/stories/1]
+  [4;36;1mSQL (1.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mStory Create (0.8ms)[0m   [0mINSERT INTO "stories" ("updated_at", "photo_file_name", "photo_file_size", "title", "body", "public", "photo_updated_at", "photo_content_type", "user_id", "created_at") VALUES('2009-06-17 08:00:52', NULL, NULL, 'Vel voluptate aliquid et doloribus sint eum ad sequi.', 'Consequatur reprehenderit mollitia repellendus debitis rerum nihil. Ea inventore ut aut soluta dolores dolorem beatae. Voluptas quo minima sapiente voluptatibus sit. Iusto est architecto dolorum omnis provident.', NULL, NULL, NULL, NULL, '2009-06-17 08:00:52')[0m
+[paperclip] Saving attachments.
+  [4;36;1mStory Load (1.2ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+  [4;35;1mStory Load (2.2ms)[0m   [0mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+REQUESTING PAGE: GET /stories/1 with {} and HTTP headers {}
+
+
+Processing StoriesController#show (for 127.0.0.1 at 2009-06-17 18:00:52) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mStory Load (1.5ms)[0m   [0;1mSELECT * FROM "stories" WHERE ("stories"."id" = 1) [0m
+Rendering template within layouts/application
+Rendering stories/show
+  [4;35;1mDonationOption Load (0.4ms)[0m   [0mSELECT * FROM "donation_options" [0m
+Rendered layouts/_header (14.1ms)
+Completed in 72ms (View: 50, DB: 16) | 200 OK [http://www.example.com/stories/1]

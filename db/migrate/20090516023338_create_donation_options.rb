@@ -11,7 +11,7 @@ class CreateDonationOptions < ActiveRecord::Migration
         :description => "If enough people give up a bit of small change we can make a big change", 
         :amount => 1)
     DonationOption.create!(
-        :title => "More than just change", 
+        :title => "Jingle, jingle", 
         :description => "So you feel you have more than just small change to spare", 
         :amount => 5) 
     DonationOption.create!(
@@ -21,6 +21,7 @@ class CreateDonationOptions < ActiveRecord::Migration
   end
   
   def self.down
+    DonationOption.delete_all
     drop_table :donation_options
   end
 end

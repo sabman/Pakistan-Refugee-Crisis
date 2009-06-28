@@ -22,6 +22,7 @@ User.blueprint(:shoaib) do
   email {"shoaib@nomad-labs.com"}
   password {"secret"}
   password_confirmation {"secret"}
+  admin {false}
 end
 
 
@@ -30,20 +31,18 @@ User.blueprint(:admin) do
   email {"saburq@gmail.com"}
   password {"secret"}
   password_confirmation {"secret"}
-  admin {true}
+  admin {true}    
+  # story {Story.make}
 end
 
 # Story
 Story.blueprint do
   title
   body
-  user
 end
 
-Story.blueprint(:shoaibs_story) do
-  title
-  body
-  User.make(:shoaib) 
+Story.blueprint("shoaibs_story") do
+  user {User.make(:shoaib) }
 end
 
 # DonationOption
