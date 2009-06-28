@@ -1,0 +1,21 @@
+!!! Strict
+%html{ :lang => "en", :xmlns => "http://www.w3.org/1999/xhtml" }
+  %head
+    %meta{ :content => "text/html; charset=utf-8", "http-equiv" => "Content-Type" }
+    %title
+      = h(yield(:title) || "Pakistan Refugee Crisis")
+    = stylesheet_link_tag 'pakistan_crisis', "themes/default/style"
+  %body
+    = render :partial => "layouts/header"
+  
+    #box
+      - # %a{:href => "#", :class => "lbAction", :rel => "deactivate"}Close
+      #block-signup.block
+        %h2
+          Signup 
+        .content.login
+          .flash 
+            - flash.each do |name, msg|
+              %div{ :class => "message #{name}"}
+                %p= msg
+          =yield 
