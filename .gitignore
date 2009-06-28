@@ -1,6 +1,7 @@
 .DS_Store
 config/deploy.yml
 config/settings.yml
+config/database.yml
 config/newrelic.yml
 db/schema.rb
 log/*.log
